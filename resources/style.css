@@ -22,6 +22,7 @@
   color: white;
   text-align: left;
 }
+/*Padding between sections*/
 
 #contact,
 #execute{
@@ -45,14 +46,20 @@
   padding-left: 16px;
 }
 
+/*Headline shared styles*/
+
 .headline{
   font-weight: bold;
 }
+
+/*Footer styles*/
 
 .footer{
   background-color: dimgray;
   padding: 32px;
 }
+
+/*Padding between sections*/
 
 .section{
   padding-top: 32px;
