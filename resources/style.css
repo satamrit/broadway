@@ -1,0 +1,70 @@
+*{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+/*Shared styles in the hero section*/
+
+.hero{
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+/*Title style*/
+
+#title{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#copyright{
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+#contact,
+#execute{
+  padding-bottom: 64px;
+}
+
+#designed{
+  padding: 64px;
+}
+
+#process{
+  padding-top: 32px;
+}
+
+/*Navigation link style*/
+
+.nav{
+  font-size: 17px;
+  color: white;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.headline{
+  font-weight: bold;
+}
+
+.footer{
+  background-color: dimgray;
+  padding: 32px;
+}
+
+.section{
+  padding-top: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+h2{
+  font-size: 32px;
+}
+p{
+  font-size: 14px;
+}
